@@ -1,4 +1,9 @@
-# Exp-6: Synchornous counters up counter and down counter 
+NAME:SRIKARAN M
+REFENCE NUMBER:23010618
+
+
+
+# Exp 6: Synchornous counters up counter and down counter 
 ## AIM: 
 To implement 4 bit up and down counters and validate functionality.
 ## Equipments Required:
@@ -76,36 +81,33 @@ endmodule
 
 ## RTL LOGIC UP COUNTER AND DOWN COUNTER  
 ### UP COUNTER
-
-![Screenshot 2023-12-25 221757](https://github.com/akshai07/Exp-7-Synchornous-counters-/assets/152007451/7d06cc16-7999-4045-a593-906b36d6596a)
+![image](https://github.com/Srikaran077/Exp-7-Synchornous-counters-/assets/151993143/2105ffc3-257f-4939-817f-061a006c8d12)
 
  
 ### DOWN COUNTER
+![image](https://github.com/Srikaran077/Exp-7-Synchornous-counters-/assets/151993143/9df8b3df-1cf9-429d-aa5a-245350616a04)
 
-![Screenshot 2023-12-25 221805](https://github.com/akshai07/Exp-7-Synchornous-counters-/assets/152007451/ff964e16-b378-45f7-b690-b61a3e21e0a1)
 
 
  
 ## TIMING DIGRAMS FOR COUNTER  
 ### UP COUNTER
+![image](https://github.com/Srikaran077/Exp-7-Synchornous-counters-/assets/151993143/537e0a2d-2c34-452a-bfdd-d2431de63137)
 
-![Screenshot 2023-12-25 221812](https://github.com/akshai07/Exp-7-Synchornous-counters-/assets/152007451/abdd191b-4bc3-4b44-9813-5a989f55d46a)
 
 
 ### DOWN COUNTER
+![image](https://github.com/Srikaran077/Exp-7-Synchornous-counters-/assets/151993143/f24b21ec-9b2a-4c87-a494-dcb59c3f4914)
 
-![Screenshot 2023-12-25 221821](https://github.com/akshai07/Exp-7-Synchornous-counters-/assets/152007451/24961b85-e081-46bf-9b4b-ff4874ebad3d)
 
  
 ## TRUTH TABLE
 ### UP COUNTER
-
-![Screenshot 2023-12-25 221828](https://github.com/akshai07/Exp-7-Synchornous-counters-/assets/152007451/d49dd1f3-0b2d-46b3-b8cf-5aa9ee37dea2)
+![image](https://github.com/Srikaran077/Exp-7-Synchornous-counters-/assets/151993143/22de437f-cf21-48a1-b8b1-f631a0aeb214)
 
  
 ### DOWN COUNTER
-
-![Screenshot 2023-12-25 221838](https://github.com/akshai07/Exp-7-Synchornous-counters-/assets/152007451/5493a9a4-cadb-4a86-8871-ead8b1bf702e)
+![image](https://github.com/Srikaran077/Exp-7-Synchornous-counters-/assets/151993143/f6f72636-1a79-4099-bd17-4418c72e5c1b)
 
  
 
