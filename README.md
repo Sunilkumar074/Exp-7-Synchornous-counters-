@@ -1,5 +1,5 @@
-NAME:SRIKARAN M<br>
-REFENCE NUMBER:23010618
+NAME:SUNIL KUMAR P.B.<br>
+REFENCE NUMBER:212223040213
 
 
 
@@ -30,14 +30,14 @@ Starting with four J-K flip-flops connected in such a way to always be in the �
 The Q outputs of each flip-flop will serve as the respective binary bits of the final, four-bit count:
 Four-bit “Up” Counter
 
-![image](https://user-images.githubusercontent.com/36288975/169644758-b2f4339d-9532-40c5-af40-8f4f8c942e2c.png)
+![image](https://github.com/Sunilkumar074/Exp-7-Synchornous-counters-/assets/152241049/756266ad-dafc-4318-af2a-bd81ae8f4716)
 
 ### DOWN COUNTER 
 
 As well as counting “up” from zero and increasing or incrementing to some preset value, it is sometimes necessary to count “down” from a predetermined value to zero allowing us to produce an output that activates when the zero count or some other pre-set value is reached.
 
 This type of counter is normally referred to as a Down Counter, (CTD). In a binary or BCD down counter, the count decreases by one for each external clock pulse from some preset value. Special dual purpose IC’s such as the TTL 74LS193 or CMOS CD4510 are 4-bit binary Up or Down counters which have an additional input pin to select either the up or down count mode.
-![image](https://user-images.githubusercontent.com/36288975/169644844-1a14e123-7228-4ed8-81a9-eb937dff4ac8.png)
+![image](https://github.com/Sunilkumar074/Exp-7-Synchornous-counters-/assets/152241049/ef725327-0281-49e1-9769-3ca10546468d)
 
 
 4-bit Count Down Counter
@@ -81,33 +81,33 @@ endmodule
 
 ## RTL LOGIC UP COUNTER AND DOWN COUNTER  
 ### UP COUNTER
-![image](https://github.com/Srikaran077/Exp-7-Synchornous-counters-/assets/151993143/2105ffc3-257f-4939-817f-061a006c8d12)
+![image](https://github.com/Sunilkumar074/Exp-7-Synchornous-counters-/assets/152241049/fca4aceb-e841-4c10-b03e-417ebc8a672c)
 
  
 ### DOWN COUNTER
-![image](https://github.com/Srikaran077/Exp-7-Synchornous-counters-/assets/151993143/9df8b3df-1cf9-429d-aa5a-245350616a04)
+![image](https://github.com/Sunilkumar074/Exp-7-Synchornous-counters-/assets/152241049/ab0b21ad-4e28-4ed3-bb99-84184c2117e4)
 
 
 
  
 ## TIMING DIGRAMS FOR COUNTER  
 ### UP COUNTER
-![image](https://github.com/Srikaran077/Exp-7-Synchornous-counters-/assets/151993143/537e0a2d-2c34-452a-bfdd-d2431de63137)
+![image](https://github.com/Sunilkumar074/Exp-7-Synchornous-counters-/assets/152241049/468a5975-eaf9-4fab-abe5-93f648d94262)
 
 
 
 ### DOWN COUNTER
-![image](https://github.com/Srikaran077/Exp-7-Synchornous-counters-/assets/151993143/f24b21ec-9b2a-4c87-a494-dcb59c3f4914)
+![image](https://github.com/Sunilkumar074/Exp-7-Synchornous-counters-/assets/152241049/8746ce32-0d9f-4995-9019-eb2a07873c84)
 
 
  
 ## TRUTH TABLE
 ### UP COUNTER
-![image](https://github.com/Srikaran077/Exp-7-Synchornous-counters-/assets/151993143/22de437f-cf21-48a1-b8b1-f631a0aeb214)
+![image](https://github.com/Sunilkumar074/Exp-7-Synchornous-counters-/assets/152241049/b686d5e0-fbe5-4de6-88a6-b7ecb239734f)
 
  
 ### DOWN COUNTER
-![image](https://github.com/Srikaran077/Exp-7-Synchornous-counters-/assets/151993143/f6f72636-1a79-4099-bd17-4418c72e5c1b)
+![image](https://github.com/Sunilkumar074/Exp-7-Synchornous-counters-/assets/152241049/1ee3d15d-9d46-47d4-855f-4818cfcde884)
 
  
 
